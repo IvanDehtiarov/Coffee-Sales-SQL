@@ -42,4 +42,6 @@ Given this dataset, a **Google BigQuery** data warehouse and **SQL** was used fo
 5. Nested queries (in `WHERE` and `FROM`);
 6. Common table expressions (`WITH`).
 
+The full list list of SQL queries can be found via [this link](CoffeeSales_SQL.ipynb).
+
 Moreover, on the basis of the same dataset, utilizing similar approaches, a fully interactive dashboard in Google Sheets was created. The in-depth exploration of coffee sales with visualized data is available via [this link](https://docs.google.com/spreadsheets/d/1pExpI77uPN_4s_CcLldUqN2pxo6pB3kJs7eNnuEgDFs/edit?usp=sharing).
