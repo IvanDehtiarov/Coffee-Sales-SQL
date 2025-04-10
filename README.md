@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/5c0321b9-b486-4350-b112-43b359296d39)
+![image](https://github.com/user-attachments/assets/60ac3ae3-c553-416b-9b92-eb87a446bbcf)
+
 
 # Coffee-Sales-SQL
 Brief analysis of detailed coffee sales records from a vending machine with key insights and additional visualization in Google Sheets
